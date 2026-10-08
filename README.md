@@ -243,35 +243,7 @@ I'm interested in opportunities connecting **technology, youth, sustainability a
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tanishapatelworks-ui&show_icons=true&hide_border=true&theme=transparent&title_color=1D546D&icon_color=5F9598&text_color=5F9598"
-    height="170"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishapatelworks-ui&layout=compact&hide_border=true&theme=transparent&title_color=1D546D&text_color=5F9598"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tanishapatelworks-ui&bg_color=ffffff00&color=1D546D&line=5F9598&point=1D546D&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
 
 ## 📚 Currently Exploring
 
